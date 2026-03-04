@@ -1,0 +1,29 @@
+# IDEs and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+target/
+out/
+build/
+bin/
+*.class
+*.log
+
+# Node/Bun dependencies
+node_modules/
+bun.lock
+
+# Misc
+output.bin
+logs/
